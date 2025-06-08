@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Microservices, ReactJS, NestJS, TypeScript, PostgreSQL
+- 🔭 I’m currently working with ... Microservices, ReactJS, NestJS, TypeScript, PostgreSQL
 - 🌱 I’m currently learning ... Software Architecture
 - 👯 I’m looking to collaborate on ... Javascript Stack
 - 🤔 I’m looking for help with ... Software Architecture
