@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Senior Software Engineer with 10+ years of experience building scalable web applications, AI-powered solutions, and cloud native systems.
 
-- 🔭 I’m currently working with ... Microservices, ReactJS, NestJS, TypeScript, PostgreSQL
-- 🌱 I’m currently learning ... Software Architecture, AI Applications, LLMs & Vector Databases
-- 👯 I’m looking to collaborate on ... JavaScript Stack, Scalable Web Apps, Cloud-Native Projects
-- 🚀 9+ years building high-performance apps in e-commerce, healthcare, fintech, and enterprise systems
-- 💬 Ask me about ... Typescript, Javascript, NodeJs, ReactJS, MongoDB, GIT
-- 📫 How to reach me: ... https://www.linkedin.com/in/nafeo-alam/
+- 🔭 I’m currently working with **TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, RabbitMQ, Azure, AWS**
+- 🌱 I’m currently learning **Agentic AI, RAG, LLMs, Vector Databases, and System Design**
+- 👯 I’m looking to collaborate on **AI, SaaS, and Open Source TypeScript projects**
+- 💬 Ask me about **TypeScript, JavaScript, React, Node.js, NestJS, Microservices, AI, and Cloud**
 
-✨ Highlighted Projects
+### ✨ Featured Projects
 
-- **Delineate Research App (2024)**: FullStack dev on AI platform for pharmaceutical research — NestJS, NextJS, Redux, RabbitMQ, Microservices
-- **AI HR Assistant (2024)**: Architected a multi-departmental AI tool using Azure OpenAI, CosmosDB, and ReactJS
-- **Big Think Capital (2022)**: Built a fintech platform for SMB funding — NodeJS, React, Azure Functions
-- **Stash Property (2021)**: Property insights platform — ReactJS, DeckGL, NextJS, PostgreSQL, Microservices
-- **BoiBazar (2020)**: Book selling E-commerce - Nodejs, Angular, MongoDB, Microservices
+- **🧠 Delineate Research (2024 to Present)** – AI platform for pharmaceutical research built with NestJS, Next.js, FastAPI, LangGraph, RabbitMQ, PostgreSQL, and Docker.
+- **🤖 Enterprise AI Assistant (2024)** – Multi-department AI platform powered by Azure OpenAI, CosmosDB, and React.
+- **💰 Big Think Capital (2022)** – Fintech platform built with React, Node.js, Azure Functions, and CosmosDB.
+- **🏡 Stash Property (2021)** – AI-powered property insights platform using React, Next.js, PostgreSQL, DeckGL, and Microservices.
+- **📚 BoiBazar (2020)** – E-commerce platform built with Node.js, Angular, MongoDB, PostgreSQL, RabbitMQ, and Microservices.
+
+### 📫 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nafeo-alam/
