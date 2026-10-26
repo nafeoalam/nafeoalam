@@ -7,6 +7,13 @@ Lead Software Engineer with 9+ years of experience building web platforms, distr
 - 👯 I'm looking to collaborate on **AI, SaaS and open source TypeScript projects**
 - 💬 Ask me about **agent workflows, RAG, distributed systems, TypeScript and Python**
 
+### 📊 Work activity
+
+Most of my day to day work happens in private company repos on [@nafeo-del](https://github.com/nafeo-del).
+
+[![Work contributions](https://ghchart.rshah.org/40c463/nafeo-del)](https://github.com/nafeo-del)
+
+
 ### ✨ Featured Projects
 
 - 🧠 **Delineate AI Research Platform (2024 to Present):** AI platform for pharma research teams with agentic literature search, human in the loop workflows and a 20M+ embedding vector store. Built with Next.js, NestJS, FastAPI, LangGraph, PostgreSQL, Qdrant, RabbitMQ and Celery.
